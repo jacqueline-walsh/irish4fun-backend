@@ -1,0 +1,26 @@
+{
+  "name": "irish4fun",
+  "version": "1.0.0",
+  "description": "Interactive Storybook for Children",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "bcryptjs": "*",
+    "cors": "*",
+    "jsonwebtoken": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "Jacqueline Walsh",
+  "license": "MIT",
+  "devDependencies": {
+    "@angular/cli": "*",
+    "@angular-devkit/schematics": "*",
+    "@angular-devkit/core": "*"
+  }
+}
